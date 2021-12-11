@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "py-dev-deps"
-version = "0.2.1"
+version = "0.3.0"
 description = "A package for common python development dependencies"
 authors = ["Darren Weber <dweber.consulting@gmail.com>"]
 license = "Apache 2.0"
