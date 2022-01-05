@@ -64,6 +64,7 @@ requests-mock = "^1.8.0"
 
 # docs
 doc8 = "^0.10.0"
+mdformat_myst = "^0.1.4"
 m2r2 = "^0.3.0"
 readme-renderer = {extras = ["md"], version = "^31.0"}
 Sphinx = "^4.0.0"
