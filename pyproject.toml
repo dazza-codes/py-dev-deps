@@ -80,6 +80,7 @@ pipdeptree = "^2.0"
 
 # dev tools
 ipdb = "*"
+doit = "*"
 
 
 [tool.poetry.extras]
