@@ -37,7 +37,7 @@ python = "^3.8"
 
 # static code analysis and linters
 autopep8 = "^2.0"
-black = "^22.0"
+black = {extras = ["d"], version = "^22.0"}
 flake8 = "^5.0"
 isort = "^5.0"
 mypy = "*"
